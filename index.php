@@ -93,7 +93,7 @@ if($media < 4){
                 
                 
                 Por: Tiago Souza
-		Código diponível em: 
+		Código diponível em:   
 		https://github.com/tiagoscostas/distributed.git
 </body>
 
