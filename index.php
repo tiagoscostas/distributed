@@ -94,6 +94,7 @@ if($media < 4){
                 
                 Por: Tiago Souza
 	<br>
+	<br>
 		Código diponível em:   
 	<br>
 		https://github.com/tiagoscostas/distributed.git
