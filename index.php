@@ -92,9 +92,9 @@ if($media < 4){
                 <br>
                 
                 
-                Por:    Tiago Souza
+                Por:    Tiago Souza e
 			<br> Gutierres Paiva
-	<br>
+	<br><br>
 	<br>
 		Código diponível em:   
 	<br>
