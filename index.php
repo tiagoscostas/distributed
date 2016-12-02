@@ -93,7 +93,7 @@ if($media < 4){
                 
                 
                 Por:    Tiago Souza e
-			<br> Gutierres Pires
+			<br> Gutierres Pires.
 	<br><br>
 	<br>
 		Código diponível em:   
