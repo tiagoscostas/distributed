@@ -16,8 +16,11 @@ $nota1 =  $nota2 = $nota3 = "";
         $mediaFinal = $ef = "";
 ?>
 	<h2>FANIOR - FACULDADE INDEPENDENTE DO NORDESTE</h2>
-                <h2>MÉDIA PARA PROVA FINAL</h2>
-                
+                <h2>SISTEMAS CONCORRENTES E DISTRIBUIDOS</h2>
+	<h2>PROFESSOR STÉNIO LONGO</h2>
+	<br><br><br><br>
+	<h2>APLICAÇÃO WEB - MÉDIA PARA PROVA FINAL</h2>
+                <br>
 	
 	<form action="index.php" method="post">
 		
